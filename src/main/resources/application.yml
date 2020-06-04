@@ -1,0 +1,11 @@
+server:
+  port: 8031
+spring:
+  application:
+    name: spring-boot-mongodb
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: test
+
